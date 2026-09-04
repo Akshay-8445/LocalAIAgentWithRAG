@@ -1,1 +1,18 @@
+# PyCharm settings
+.idea/
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# ChromaDB
+chroma_langchain_db/
+chrome_langchain_db/
+
+# Secret variables
+.env
