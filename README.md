@@ -1,5 +1,5 @@
 # Local_AI_Agent_with_RAG🤖
-
+---
 A private, locally running question-answering assistant built with Python, LangChain, ChromaDB, and Ollama. It converts the content of data.txt into embeddings, retrieves the most relevant passages, and generates answers grounded in the supplied document.
 ---
 ## Overview
