@@ -78,6 +78,6 @@ Local AI model execution
 Python-based AI application development
 
 
- Author🧑‍💻
+ Author🧑‍💻:
 Akshay Pal
 ## Linkedin:https://www.linkedin.com/in/akshay-pal-60115b286/
